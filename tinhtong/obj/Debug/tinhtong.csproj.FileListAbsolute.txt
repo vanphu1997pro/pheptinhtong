@@ -1,0 +1,8 @@
+D:\cshap\tinhtong\tinhtong\bin\Debug\tinhtong.exe.config
+D:\cshap\tinhtong\tinhtong\bin\Debug\tinhtong.exe
+D:\cshap\tinhtong\tinhtong\bin\Debug\tinhtong.pdb
+D:\cshap\tinhtong\tinhtong\obj\Debug\tinhtong.csproj.AssemblyReference.cache
+D:\cshap\tinhtong\tinhtong\obj\Debug\tinhtong.csproj.SuggestedBindingRedirects.cache
+D:\cshap\tinhtong\tinhtong\obj\Debug\tinhtong.csproj.CoreCompileInputs.cache
+D:\cshap\tinhtong\tinhtong\obj\Debug\tinhtong.exe
+D:\cshap\tinhtong\tinhtong\obj\Debug\tinhtong.pdb
